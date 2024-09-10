@@ -9,7 +9,14 @@ export const CountUp = () => {
    const DecreaseCount = () => {
     setCount(count => count-1);
    }
+   const Plus5Button = () => {
+      setCount(count => count+5);
+   }
 
+   const handlePrevent = (e) => {
+      e.preventDefault();
+      alert("これは練習です")
+   }
 
 
     return(
@@ -23,8 +30,11 @@ export const CountUp = () => {
 
        <Sbutton onClick={IncreaseCount}>増加</Sbutton>
        <Sbutton onClick={DecreaseCount}>減少</Sbutton>
+       <Sbutton onClick={Plus5Button}>5追加します</Sbutton>
+
        
-      </Sdiv>  
+      </Sdiv>
+      <button onClick={handlePrevent}>preventDefaultの練習</button>  
        </div>
        
     )
