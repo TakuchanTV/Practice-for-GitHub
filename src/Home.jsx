@@ -8,6 +8,15 @@ export const Home = () => {
 　　　　<NavLink to="CountUp">
          <p>CountUpページに移動します</p>  
        </NavLink>
+　　　　<NavLink to="InputText">
+         <p>InputTextページに移動します</p>  
+       </NavLink>
+　　　　<NavLink to="ShowMenu">
+         <p>ShowMenuページに移動します</p>  
+       </NavLink>
+       <NavLink to="CountDown">
+         <p>CountDownページに移動します</p>  
+       </NavLink>
       </div>  
     );
 };
