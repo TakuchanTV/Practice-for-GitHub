@@ -14,6 +14,9 @@ export const Home = () => {
 　　　　<NavLink to="ShowMenu">
          <p>ShowMenuページに移動します</p>  
        </NavLink>
+       <NavLink to="CountDown">
+         <p>CountDownページに移動します</p>  
+       </NavLink>
       </div>  
     );
 };
