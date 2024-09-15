@@ -1,0 +1,65 @@
+[33mcommit 7a352a1d7d1c74bb3ee28b516b21ac129b615c34[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: TakuchanTV <fk.53rk2@icloud.com>
+Date:   Thu Sep 12 01:03:35 2024 +0900
+
+    カウントダウンを自動で行えるように設定した
+
+[33mcommit a7856100b3c6a9b4f7f3f9eb4263487202b4bf96[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: TakuchanTV <fk.53rk2@icloud.com>
+Date:   Tue Sep 10 23:10:47 2024 +0900
+
+    Routeによってページ遷移先を設定しました
+
+[33mcommit 7456cd49256b25db6df484ae82c30c23f8f98250[m
+Author: TakuchanTV <fk.53rk2@icloud.com>
+Date:   Tue Sep 10 23:05:30 2024 +0900
+
+    NavLinkによってページ遷移ができるように設定した
+
+[33mcommit 4385b7c8b2265ec940f9d62bb3e24a58458f09d1[m
+Author: TakuchanTV <fk.53rk2@icloud.com>
+Date:   Tue Sep 10 22:58:27 2024 +0900
+
+    CountUpページの内容を増やした
+
+[33mcommit c5393353115f63be36bf66894e2651d589f1bf00[m
+Author: TakuchanTV <fk.53rk2@icloud.com>
+Date:   Thu Sep 5 01:39:22 2024 +0900
+
+    テキストを書く欄とテキストを表示させる昨日を実装しました。
+
+[33mcommit e0ffb7b78fa7540741fb92b299f7fee0a827171a[m
+Author: TakuchanTV <fk.53rk2@icloud.com>
+Date:   Thu Sep 5 00:43:18 2024 +0900
+
+    index.jsをコミットしました
+
+[33mcommit 0e8241c0124eba46f0bfd7e5d6789ffbc07a6162[m
+Author: TakuchanTV <fk.53rk2@icloud.com>
+Date:   Thu Sep 5 00:42:30 2024 +0900
+
+    まだ何も書いていないですが、コミットしました
+
+[33mcommit 45b272f804ff5813b7a9897566629664eb8fa27c[m
+Author: TakuchanTV <fk.53rk2@icloud.com>
+Date:   Thu Sep 5 00:41:35 2024 +0900
+
+    Homeページをコミットしました
+
+[33mcommit 7ceec67d645b2daed294031e96710cd4d1ee3ec0[m
+Author: TakuchanTV <fk.53rk2@icloud.com>
+Date:   Thu Sep 5 00:40:50 2024 +0900
+
+    CountUpページをコミットしました
+
+[33mcommit 51b151309989111249df8457444e8c0b3a7107a7[m
+Author: TakuchanTV <fk.53rk2@icloud.com>
+Date:   Thu Sep 5 00:38:11 2024 +0900
+
+    App.jsをコミットしました
+
+[33mcommit a0755d24a5c2a94d4e63666ba176725e6d00ceca[m
+Author: TakuchanTV <fk.53rk2@icloud.com>
+Date:   Thu Sep 5 00:14:37 2024 +0900
+
+    RouterページにInputTextのRouteを設定した
